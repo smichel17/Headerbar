@@ -74,9 +74,9 @@ Install userstyle that improves paddings and make it look like other GNOME appli
 
 ## Dark theme
 
- * [Install dark window decoration extension](https://addons.mozilla.org/firefox/addon/darkwdec/)
- * Enter `about:config` in adress field to access advanced preferences 
- * Change `extensions.gnome-theme-tweak.dark-variant` key to `1` to switch dark theme on
+Install this userstyle instead:
+
+ * [Headerbar style for GNOME 3.16+ Dark Theme](https://userstyles.org/styles/125317/headerbar-style-for-gnome-3-16-dark-theme)
 
 ![Screenshot](screenshots/dark.png)
 
