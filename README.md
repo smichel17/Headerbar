@@ -80,6 +80,11 @@ Install this userstyle instead:
 
 ![Screenshot](screenshots/dark.png)
 
+This userstyle may also be useful:
+
+ * [Gnome Dark Theme Form
+   Fix](https://userstyles.org/styles/125219/gnome-dark-theme-form-fix)
+
 ## Other useful extensions
 
  * [GNOME Keyring integration](https://addons.mozilla.org/firefox/addon/mozilla-gnome-keyring/)
